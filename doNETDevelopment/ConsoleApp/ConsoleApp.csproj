@@ -46,6 +46,7 @@
     <Compile Include="Ejemplos_de_Clase\Problema1.cs" />
     <Compile Include="Ejemplos_de_Clase\Problema2.cs" />
     <Compile Include="Ejemplos_de_Clase\Problema3.cs" />
+    <Compile Include="Ejemplos_de_Clase\Problema4.cs" />
     <Compile Include="Ejemplos_de_Clase\SumaProductoNumeros.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
