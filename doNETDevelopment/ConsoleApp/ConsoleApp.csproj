@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Ejemplos_de_Clase\EstructuraCondicionalSimple.cs" />
     <Compile Include="Ejemplos_de_Clase\Problema1.cs" />
     <Compile Include="Ejemplos_de_Clase\Problema2.cs" />
     <Compile Include="Ejemplos_de_Clase\Problema3.cs" />
