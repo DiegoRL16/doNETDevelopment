@@ -25,7 +25,7 @@ namespace ConsoleApp.Ejemplos_de_Clase
 
         //    //Recibe la informacion desde el teclado y la guarda en la variable
         //    //Convertir lo obtenido al esperado
-        //    num1 = Convert.ToInt32 (Console.ReadLine());
+        //    num1 = Convert.ToInt32(Console.ReadLine());
 
         //    Console.Write("Ingrese segundo valor: ");
         //    num2 = Convert.ToInt32(Console.ReadLine());

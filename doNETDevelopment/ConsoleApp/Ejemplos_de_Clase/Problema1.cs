@@ -34,6 +34,6 @@ namespace ConsoleApp.Ejemplos_de_Clase
         //    Console.ReadKey();
 
         //}
-            
+
     }
 }
