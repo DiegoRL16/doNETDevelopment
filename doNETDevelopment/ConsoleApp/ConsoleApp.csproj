@@ -50,6 +50,7 @@
     <Compile Include="Ejemplos_de_Clase\EstructuraOpcionMultiple.cs" />
     <Compile Include="Ejemplos_de_Clase\Problema1.cs" />
     <Compile Include="Ejemplos_de_Clase\Problema10.cs" />
+    <Compile Include="Ejemplos_de_Clase\Problema11.cs" />
     <Compile Include="Ejemplos_de_Clase\Problema2.cs" />
     <Compile Include="Ejemplos_de_Clase\Problema3.cs" />
     <Compile Include="Ejemplos_de_Clase\Problema4.cs" />
