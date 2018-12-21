@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Ejemplos_de_Clase\EstructuraCondicionalAnidada.cs" />
     <Compile Include="Ejemplos_de_Clase\EstructuraCondicionalCompuesta.cs" />
     <Compile Include="Ejemplos_de_Clase\EstructuraCondicionalSimple.cs" />
     <Compile Include="Ejemplos_de_Clase\Problema1.cs" />
@@ -52,6 +53,8 @@
     <Compile Include="Ejemplos_de_Clase\Problema5.cs" />
     <Compile Include="Ejemplos_de_Clase\Problema6.cs" />
     <Compile Include="Ejemplos_de_Clase\Problema7.cs" />
+    <Compile Include="Ejemplos_de_Clase\Problema8.cs" />
+    <Compile Include="Ejemplos_de_Clase\Problema9.cs" />
     <Compile Include="Ejemplos_de_Clase\SumaProductoNumeros.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
