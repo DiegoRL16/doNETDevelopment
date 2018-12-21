@@ -8,31 +8,31 @@ namespace ConsoleApp.Ejemplos_de_Clase
 {
     class EstructuraRepetitivaWhile
     {
-        static void Main(string[] args)
-        {
-            //Programa que imprima en pantalla los numeros del al 100
+        //static void Main(string[] args)
+        //{
+        //    //Programa que imprima en pantalla los numeros del al 100
 
-            //Declarar las variables
-            int x;
+        //    //Declarar las variables
+        //    int x;
 
-            //Asignar valor a las variables
-            x = 1;
+        //    //Asignar valor a las variables
+        //    x = 1;
 
-            //Repeticion y la impresion del numero
-            while (x <= 100)
-            {
-                Console.Write(x); //Imprimimos el valor de la x
+        //    //Repeticion y la impresion del numero
+        //    while (x <= 100)
+        //    {
+        //        Console.Write(x); //Imprimimos el valor de la x
 
-                if (x != 100)
-                {
-                    Console.Write(" - ");
-                }
+        //        if (x != 100)
+        //        {
+        //            Console.Write(" - ");
+        //        }
 
-                x = x + 1; //Incrementando la x en 1 por cada vuelta
-            }
+        //        x = x + 1; //Incrementando la x en 1 por cada vuelta
+        //    }
 
-            Console.WriteLine("\n Presione una tecla para salir");
-            Console.ReadKey();
-        }
+        //    Console.WriteLine("\n Presione una tecla para salir");
+        //    Console.ReadKey();
+        //}
     }
 }
