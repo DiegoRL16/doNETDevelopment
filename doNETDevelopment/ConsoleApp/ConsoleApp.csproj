@@ -48,6 +48,7 @@
     <Compile Include="Ejemplos_de_Clase\EstructuraCondicionalCompuesta.cs" />
     <Compile Include="Ejemplos_de_Clase\EstructuraCondicionalSimple.cs" />
     <Compile Include="Ejemplos_de_Clase\EstructuraOpcionMultiple.cs" />
+    <Compile Include="Ejemplos_de_Clase\EstructuraRepetitivaWhile.cs" />
     <Compile Include="Ejemplos_de_Clase\Problema1.cs" />
     <Compile Include="Ejemplos_de_Clase\Problema10.cs" />
     <Compile Include="Ejemplos_de_Clase\Problema11.cs" />
