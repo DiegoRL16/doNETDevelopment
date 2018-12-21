@@ -55,6 +55,7 @@
     <Compile Include="Ejemplos_de_Clase\Problema12.cs" />
     <Compile Include="Ejemplos_de_Clase\Problema13.cs" />
     <Compile Include="Ejemplos_de_Clase\Problema14.cs" />
+    <Compile Include="Ejemplos_de_Clase\Problema15.cs" />
     <Compile Include="Ejemplos_de_Clase\Problema2.cs" />
     <Compile Include="Ejemplos_de_Clase\Problema3.cs" />
     <Compile Include="Ejemplos_de_Clase\Problema4.cs" />
